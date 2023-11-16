@@ -5,9 +5,9 @@
 
 
 
-- My personal favourite project is [IntelliRevise (AI Flashcards)](https://github.com/Ashes1997/IntelliRevise)
+- 😍 My personal favourite project is [IntelliRevise (AI Flashcards)](https://github.com/Ashes1997/IntelliRevise)
 
-- One of my first projects that taught me the most was [Battleships](https://github.com/Ashes1997/Battleships)
+- 🧠 One of my first projects that taught me the most was [Battleships](https://github.com/Ashes1997/Battleships)
 
 - 📫 How to reach me **ashishharikrishnan@gmail.com**
 
