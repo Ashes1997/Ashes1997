@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashes1997&label=Profile%20views&color=0e75b6&style=flat" alt="ashes1997" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashes1997" alt="ashes1997" /></a> </p>
+
 
 - My personal favourite project is [IntelliRevise (AI Flashcards)](https://github.com/Ashes1997/IntelliRevise)
-
-- 🌱 I’m currently learning **Django and Swing**
 
 - One of my first projects that taught me the most was [Battleships](https://github.com/Ashes1997/Battleships)
 
