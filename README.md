@@ -7,7 +7,7 @@
 
 - 😍 My personal favourite project is [IntelliRevise (AI Flashcards).](https://pvpfa2rdwh.us-east-1.awsapprunner.com/)
 
-- 🧠 One of my first projects that taught me the most, object oriented programming principles being one the key benefits, was [Battleships.](https://github.com/Ashes1997/Battleships)
+- 🧠 One of my first projects that taught me the most, object oriented programming principles being one of the key benefits, was [Battleships.](https://github.com/Ashes1997/Battleships)
 
 - 📫 How to reach me **ashishharikrishnan@gmail.com**
 
